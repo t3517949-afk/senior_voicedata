@@ -217,7 +217,7 @@ function LevelChart() {
 
   return (
     <div>
-      <SectionLabel number="02" en="Age Grouping" zh="不同年龄组流畅度对比" />
+      <SectionLabel number="01" en="Age Grouping" zh="不同年龄组流畅度对比" />
 
       <ResponsiveContainer width="100%" height={320}>
         <LineChart data={data} margin={{ top: 8, right: 16, bottom: 8, left: -20 }}>
@@ -286,7 +286,7 @@ function TaskChart() {
 
   return (
     <div>
-      <SectionLabel number="03" en="Task Comparison" zh="不同任务类型多维表现对比" />
+      <SectionLabel number="02" en="Task Comparison" zh="不同任务类型多维表现对比" />
 
       <ResponsiveContainer width="100%" height={320}>
         <BarChart data={TASK_SCORES} margin={{ top: 8, right: 16, bottom: 8, left: -20 }} barSize={14}>
@@ -373,7 +373,7 @@ function RadarChartSection() {
 
   return (
     <div>
-      <SectionLabel number="04" en="Competency Radar" zh="各年龄组五维能力雷达图" />
+      <SectionLabel number="03" en="Competency Radar" zh="各年龄组五维能力雷达图" />
 
       <div
         style={{
@@ -467,7 +467,7 @@ function RadarChartSection() {
 function ImprovementChart() {
   return (
     <div>
-      <SectionLabel number="05" en="Improvement Analysis" zh="各维度阶段变化幅度" />
+      <SectionLabel number="04" en="Improvement Analysis" zh="各维度阶段变化幅度" />
 
       <div style={{ display: 'flex', flexDirection: 'column', gap: '0' }}>
         {IMPROVEMENT_RATES.map((item, i) => (
