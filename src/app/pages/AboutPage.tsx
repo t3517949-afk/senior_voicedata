@@ -268,12 +268,12 @@ function MemberCard({ member, index }: { member: typeof TEAM_MEMBERS[0]; index: 
         {member.studentId && (
           <div style={{ fontSize: '12px', color: '#6A6258', lineHeight: 1.6 }}>
             <span style={{ color: '#8A8070', display: 'inline-block', minWidth: '44px' }}>学号</span>
-            <span style={{ fontFamily: "'Manrope', 'Inter', sans-serif" }}>{member.studentId}</span>
+            <span style={{ fontFamily: "'Space Mono', monospace" }}>{member.studentId}</span>
           </div>
         )}
         <div style={{ fontSize: '12px', color: '#6A6258', lineHeight: 1.6 }}>
           <span style={{ color: '#8A8070', display: 'inline-block', minWidth: '44px' }}>电话</span>
-          <span style={{ fontFamily: "'Manrope', 'Inter', sans-serif" }}>{member.phone}</span>
+          <span style={{ fontFamily: "'Space Mono', monospace" }}>{member.phone}</span>
         </div>
         <div style={{ fontSize: '12px', color: '#6A6258', lineHeight: 1.6, wordBreak: 'break-all' }}>
           <span style={{ color: '#8A8070', display: 'inline-block', minWidth: '44px' }}>邮箱</span>
@@ -570,7 +570,7 @@ export function AboutPage() {
                 />
                 <div
                   style={{
-                    fontFamily: "'Manrope', 'Inter', sans-serif",
+                    fontFamily: "'Space Mono', monospace",
                     fontSize: '11px',
                     color: '#8A8070',
                     paddingTop: '3px',
@@ -582,7 +582,7 @@ export function AboutPage() {
                 </div>
                 <div
                   style={{
-                    fontFamily: "'Manrope', 'Inter', sans-serif",
+                    fontFamily: "'Space Mono', monospace",
                     fontSize: '14px',
                     color: event.current ? '#C07830' : '#4A4440',
                     lineHeight: 1.55,
