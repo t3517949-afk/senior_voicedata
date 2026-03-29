@@ -206,7 +206,7 @@ export function Layout() {
               }}
               className="md-show"
             >
-              老年人认知健康与情感陪伴项目
+              老年人语料数据集和分析可视化平台项目
             </span>
           </NavLink>
 
@@ -456,7 +456,7 @@ export function Layout() {
             ))}
           </div>
           <p style={{ fontSize: '12px', letterSpacing: '0.08em', marginBottom: '4px' }}>
-            聆夕 / 聆伴 · 老年人认知健康与情感陪伴平台
+            聆夕 / 聆伴 · 老年人语料数据集和分析可视化平台
           </p>
           <p style={{ fontSize: '11px', color: 'var(--lx-text-weak)' }}>
             语音采集 · 状态观察 · 反馈支持 · 家庭协同

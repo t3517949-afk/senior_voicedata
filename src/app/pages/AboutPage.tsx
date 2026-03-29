@@ -783,7 +783,7 @@ export function AboutPage() {
         >
           <div>
             <div style={{ fontSize: '10px', color: '#5A5248', letterSpacing: '0.15em', marginBottom: '12px', textTransform: 'uppercase' }}>项目定位</div>
-            <div style={{ fontSize: '14px', color: '#C8C2B8', marginBottom: '6px' }}>老年人认知健康与情感陪伴平台</div>
+            <div style={{ fontSize: '14px', color: '#C8C2B8', marginBottom: '6px' }}>老年人语料数据集和分析可视化平台</div>
             <div style={{ fontSize: '12px', color: '#5A5248' }}>以语音记录、状态观察与反馈支持为核心</div>
           </div>
           <div>
