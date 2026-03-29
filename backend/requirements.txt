@@ -1,0 +1,7 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.9,<1
+numpy>=1.24,<3
+python-igraph>=0.11,<1
+-e ../vendor/fasttext-source
+-e ../vendor/hanlp-source

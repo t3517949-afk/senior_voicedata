@@ -1,0 +1,8927 @@
+[
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.494268
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.469314
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.430721
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.395205
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.307848
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.295064
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.290535
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.283826
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.272045
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.268365
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": 0.264603
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.254349
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.254167
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.245072
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.236964
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.236307
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.235513
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.233559
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.233262
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.226481
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.213153
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.210324
+  },
+  {
+    "term_a": "锅里",
+    "freq_a": 4,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.209913
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.209236
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.204644
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.204415
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.203778
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.20361
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.203002
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.200363
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.199343
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.197699
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.197671
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.194407
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.191936
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.189636
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.189213
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.187236
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.187199
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.186795
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": 0.182653
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.18159
+  },
+  {
+    "term_a": "铲子",
+    "freq_a": 2,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.181175
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": 0.180092
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.17937
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.178983
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.178427
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.175849
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.173907
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.173167
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.172576
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.17205
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.171633
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.168518
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.168065
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.166704
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.162686
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.162028
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.161627
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.160221
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.159952
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.159917
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.159447
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.15879
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.158084
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.157763
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.157642
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.156386
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.1561
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.155699
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": 0.155314
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.15477
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.154132
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.153764
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.152499
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.152074
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.151502
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.151086
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.146706
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.146573
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.14475
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.144022
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.144004
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.143511
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.143423
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.14326
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.140808
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.139988
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.139836
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.13937
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.138807
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.138676
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.138531
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.137839
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.137491
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.137046
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": 0.136993
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.136817
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.1358
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.135604
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.134759
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.134689
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.134027
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.133587
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.133178
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.132751
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.130768
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.130696
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.13035
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.13004
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.129325
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.128954
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.128579
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.127626
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.127379
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.127191
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.126946
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.126169
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.125055
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.123688
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.12356
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.123162
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.122934
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.122508
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.122339
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.121488
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.121299
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.120603
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.119185
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.119092
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.118165
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.117861
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": 0.116157
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.116081
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "准备",
+    "freq_b": 7,
+    "cosine_similarity": 0.115903
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": 0.115441
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.115429
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.115102
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.114869
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": 0.113339
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.113044
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "关火",
+    "freq_b": 1,
+    "cosine_similarity": 0.112922
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.112251
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.112123
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.110993
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.110746
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.110595
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.109639
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": 0.108943
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.108238
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.107853
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.10777
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.107727
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.107501
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.107364
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.107089
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.106708
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.106677
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.106348
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.1047
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": 0.104593
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.104287
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.104223
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.103633
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.103433
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.103398
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.103223
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.103119
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.102135
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.101764
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.101263
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.101259
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.100686
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.100589
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.100515
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.100243
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.100159
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.100132
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.099985
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.09997
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.099215
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.099205
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.098969
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.098751
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.097926
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.097597
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": 0.095737
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.095273
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.095151
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.094456
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": 0.094252
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.093945
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.093293
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.092995
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.092443
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.092426
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.09233
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.092158
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.091601
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.090581
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.09048
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.09039
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.090312
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.090126
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.089915
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.089709
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.089179
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.088736
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.088673
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.08865
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.088392
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.088063
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.087729
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": 0.08762
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.08706
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.086907
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.086699
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.086644
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.086148
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.086046
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.086
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.0857
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.084375
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.084342
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.084327
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.084323
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.084079
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "分开",
+    "freq_b": 1,
+    "cosine_similarity": 0.083937
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.082884
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.082592
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.082432
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.082428
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.082225
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.081942
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.081671
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.081643
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.081568
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.081504
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.081285
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.080999
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.080475
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.080382
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.080306
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.080297
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.07999
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.079867
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.079845
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.079752
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.079627
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.079449
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.07943
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.079428
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.079417
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.078584
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.078408
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.078273
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.078203
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.078071
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.077797
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.077394
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.077325
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.076942
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.076866
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.076729
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.076618
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.076367
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.076096
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.075744
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.075612
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.075527
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.075275
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.074891
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.074414
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.074304
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.07357
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.07343
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.073287
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.072837
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.072242
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.072149
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.071966
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.071875
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.071659
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.071452
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.071304
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "分开",
+    "freq_b": 1,
+    "cosine_similarity": 0.07111
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.070823
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.070734
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.069533
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.069396
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.068906
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.068828
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.068804
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.067748
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.067682
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.067119
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.066391
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.066182
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.065399
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.065285
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.065056
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.064766
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.064586
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.063697
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.063643
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.063586
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.063441
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "准备",
+    "freq_b": 7,
+    "cosine_similarity": 0.063314
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.062969
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.062961
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.062435
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.06242
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.062223
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.0622
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.062139
+  },
+  {
+    "term_a": "颜色",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.061748
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.061285
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.060766
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.060053
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.059575
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.059425
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.058663
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.058514
+  },
+  {
+    "term_a": "锅里",
+    "freq_a": 4,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.058303
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.058127
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.058007
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.057872
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.057777
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.057497
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.057384
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.05733
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "分开",
+    "freq_b": 1,
+    "cosine_similarity": 0.057215
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.05698
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.056845
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.056814
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.056658
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.056375
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.056113
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.055835
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.055767
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.055671
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.055591
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.055243
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.055012
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.054431
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.053848
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.053802
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.053515
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.053374
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.053132
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.05306
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.052744
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.052513
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.052375
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.052245
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.052108
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.051944
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.051879
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.051639
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.051518
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.050697
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.050145
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.050002
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.049911
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.049273
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.049259
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.049181
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.04915
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.049105
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.049009
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.048809
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.04849
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.048226
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.048223
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.047936
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.047817
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.047799
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.047715
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.04753
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.047208
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.047082
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.04682
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.046501
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.046465
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.046032
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.046006
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.045969
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.045865
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.045544
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.045404
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.045329
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.045272
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.045152
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.044843
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.044535
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.044517
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": 0.044341
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.043222
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.042402
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.041637
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.04162
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.041565
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.041409
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.041153
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.040269
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.040219
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.039746
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.039424
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.039411
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.039149
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.038871
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.038821
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.038405
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.038346
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.037871
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.03787
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.037849
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.037525
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.03723
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.037084
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.03696
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.036868
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.03679
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.036629
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.036476
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.036275
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.035534
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.035336
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.03532
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.035291
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.034928
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.03479
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.034632
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.034632
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.034617
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.034443
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.034136
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.034042
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.033803
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.033722
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.033663
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.033581
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "出锅",
+    "freq_b": 3,
+    "cosine_similarity": 0.032881
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.032419
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.032245
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.032237
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.032172
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.031958
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.03167
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.031626
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.031468
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.031332
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.030911
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.030871
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.030757
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.030745
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.03067
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "入锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.030668
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.030661
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.030403
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.030395
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.030306
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.030161
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.030062
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.02955
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.029432
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.029291
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.029123
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.028946
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.028585
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.028332
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.028321
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.028258
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.028154
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.027997
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": 0.027822
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.02769
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.027274
+  },
+  {
+    "term_a": "铲子",
+    "freq_a": 2,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.026972
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.026887
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.026772
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.026595
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.026587
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.026523
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.026385
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.02636
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.026278
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.02613
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.026039
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.025442
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.025343
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.025273
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "分开",
+    "freq_b": 1,
+    "cosine_similarity": 0.025045
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.02466
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.02448
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.024287
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.024196
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.023879
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.023813
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.023583
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": 0.023156
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.023151
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.022912
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.022736
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.022473
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.021911
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.021679
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.020954
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.020803
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.020655
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.020383
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.020074
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.019832
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.019815
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.019444
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.019316
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.01924
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.018972
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.018142
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.01792
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.017399
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "出锅",
+    "freq_b": 3,
+    "cosine_similarity": 0.017294
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.016883
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.016601
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.016183
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.016173
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.015882
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.015787
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.015663
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.015461
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.015392
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.015292
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.015052
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.014673
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.014586
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.014548
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.014384
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.014288
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.01427
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.014229
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.014115
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.013998
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.013715
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.013687
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.013679
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.013636
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.013624
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.013502
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.012589
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.012398
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.012333
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.011595
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.0115
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.011428
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.011343
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.011189
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.010992
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.010978
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.010505
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.010453
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.010088
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": 0.010057
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.009814
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.009688
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.009479
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.009338
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.009313
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.009306
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.009244
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": 0.009181
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.009002
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.008582
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.008326
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.007897
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.005881
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.005736
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.005593
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.005543
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.005465
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.004787
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.004753
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.004206
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.004068
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.003969
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.003669
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.003652
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": 0.003204
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.002945
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.002869
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.002773
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.002717
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.002549
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": 0.002513
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "出锅",
+    "freq_b": 3,
+    "cosine_similarity": 0.002504
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.002365
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.002205
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.002188
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.001997
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.001872
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": 0.001665
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.001635
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.001631
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.001573
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.001565
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.001509
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.000993
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.000574
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.000407
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.000344
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "喜欢",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "喜欢",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "配菜",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "配菜",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "配菜",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "配菜",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "配菜",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "配菜",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "配菜",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": 0.0
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.000433
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.00046
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": -0.000589
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.000673
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.000741
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.001021
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.001136
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.001574
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.00165
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.001667
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.001677
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.001871
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.001991
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.002797
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.003101
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.003157
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.003572
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.004155
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.004171
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.004188
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.004257
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.004456
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.004467
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.004966
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.005009
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": -0.005235
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": -0.005324
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.005528
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.005677
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.005899
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.006134
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.006191
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.006841
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.007077
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.007579
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.00833
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.008923
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.009171
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.00928
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.009419
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.009481
+  },
+  {
+    "term_a": "颜色",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.009517
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.00953
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.009536
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.009962
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.010083
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.01041
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.010567
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.010709
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.011538
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.011766
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.012202
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.012542
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.012561
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.012668
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.01288
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.013007
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.0132
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.013496
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.013578
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.014128
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.014201
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.014573
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.015032
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.015238
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.015554
+  },
+  {
+    "term_a": "锅里",
+    "freq_a": 4,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.015847
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.016054
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.016146
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.016168
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.016412
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.016836
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.017094
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.017258
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.017476
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.017971
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "分开",
+    "freq_b": 1,
+    "cosine_similarity": -0.018186
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.018465
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.018486
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": -0.018881
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.019007
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.019495
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.019652
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.020197
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.020636
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.020741
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.021056
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.021232
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.021267
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.021368
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.021551
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.021857
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": -0.021985
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.022232
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.022333
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.022579
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.023054
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.023432
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.023575
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.023649
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.023684
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.023725
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.024178
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.024181
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.024257
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.025269
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.025427
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.025631
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": -0.025642
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.026122
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.026124
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.026146
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.026671
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.026742
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.026994
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.027165
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.027587
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.027758
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.027997
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.028579
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.028731
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.029205
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.030706
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.031266
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.031268
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.031318
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.031401
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.031795
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.032166
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.032652
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.032742
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.032959
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.033001
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.033091
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.033132
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.033571
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.03419
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.034218
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.034225
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.0343
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.034468
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.034479
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.034631
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.034887
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.035081
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.035423
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.035453
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.035495
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.035925
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.035975
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.03622
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.036222
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.036237
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.036579
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.036791
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.036862
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.036905
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.03692
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.03709
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.037141
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.037498
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.037499
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": -0.037561
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.037765
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": -0.037807
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": -0.037809
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.037958
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.037986
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.038569
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.039197
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.039343
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.039604
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.039606
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.039842
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.039882
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.039923
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.040269
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.041287
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.041326
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.042075
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.042235
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.042545
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.042833
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.043878
+  },
+  {
+    "term_a": "铲子",
+    "freq_a": 2,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.044323
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.044727
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.044798
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.045923
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.046863
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.04692
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.046961
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.047573
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.047599
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.047661
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.04783
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.047895
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.04803
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.04812
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.048428
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.048959
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.04927
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "入锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.049304
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.049692
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.049702
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.050463
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.050465
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.050649
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": -0.051003
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.051407
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.051411
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.051466
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.051472
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.05155
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.051658
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.052131
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.052144
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.052193
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.052216
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.0524
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.052585
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.053277
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.053723
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.054093
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.054537
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.054582
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.055244
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.055289
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.05559
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.056039
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.05616
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.056445
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.056576
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.056859
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.057113
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.057272
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.057685
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.057704
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.058136
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.058198
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.058393
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.058646
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "出锅",
+    "freq_b": 3,
+    "cosine_similarity": -0.058652
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.058798
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.058955
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.059693
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.059767
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": -0.059921
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.059962
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.060264
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.060408
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.060649
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.061082
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.061232
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.061265
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.061984
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.062646
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.06284
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.062956
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.06299
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": -0.063037
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.063095
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.063279
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.063655
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.063958
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.063969
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.064426
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": -0.064495
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.064534
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.064675
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.064712
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.064795
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.064863
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.065019
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.065116
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.065125
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.065185
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.065514
+  },
+  {
+    "term_a": "颜色",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.065533
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.065821
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.065935
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.066527
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.066773
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.066973
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.067323
+  },
+  {
+    "term_a": "铲子",
+    "freq_a": 2,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.067937
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.067976
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.068567
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.068681
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.068812
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.068982
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": -0.06916
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.069228
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.069441
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.069728
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.070184
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.070207
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.07072
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.07084
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.071327
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.071392
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.071538
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.072316
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.072707
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.072799
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.073009
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.073474
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.07355
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.074098
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.074116
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.074293
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.075523
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.075592
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.075623
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.076133
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": -0.076258
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.077768
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.078194
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.078322
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.079245
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.079246
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.080521
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.08061
+  },
+  {
+    "term_a": "继续",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.08164
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.082016
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.082402
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.082911
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.083297
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.083345
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "准备",
+    "freq_b": 7,
+    "cosine_similarity": -0.083482
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.083628
+  },
+  {
+    "term_a": "饭粒",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.083713
+  },
+  {
+    "term_a": "铲子",
+    "freq_a": 2,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.084312
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.084964
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.08504
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.085284
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.085371
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.085552
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.085763
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.0858
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.085903
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "准备",
+    "freq_b": 7,
+    "cosine_similarity": -0.086152
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.086317
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.086656
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.087491
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.088247
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.088264
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.088282
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.088432
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "口味",
+    "freq_b": 1,
+    "cosine_similarity": -0.088526
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": -0.088694
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.090011
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.090346
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.090397
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.090571
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.09073
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "压开",
+    "freq_b": 1,
+    "cosine_similarity": -0.090981
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.091858
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.091947
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.092127
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.092502
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.092738
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.093801
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.094631
+  },
+  {
+    "term_a": "饭粒",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.0949
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.094964
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.095133
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.095347
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.096295
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.096488
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.096707
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.096946
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.097061
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.097282
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.097576
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.097638
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "分开",
+    "freq_b": 1,
+    "cosine_similarity": -0.098481
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.098676
+  },
+  {
+    "term_a": "调味",
+    "freq_a": 4,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.099007
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.099259
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.099677
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.10002
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.100154
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.100172
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.100492
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.101861
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.102402
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.10242
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.102599
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.103043
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.103195
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.103351
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.103518
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.104021
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.104761
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.104843
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.105419
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.105674
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.106266
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.106523
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": -0.106594
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.107041
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.107189
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.107227
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.107449
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "放油",
+    "freq_b": 1,
+    "cosine_similarity": -0.107512
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.107595
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.107715
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.107843
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.108329
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "出锅",
+    "freq_b": 3,
+    "cosine_similarity": -0.10884
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": -0.110079
+  },
+  {
+    "term_a": "进去",
+    "freq_a": 13,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.110143
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.110545
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.111063
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.111235
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.112349
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.112897
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.113867
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.114457
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.115569
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.115718
+  },
+  {
+    "term_a": "粘锅",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.116501
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.117819
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.117924
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.118514
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.11874
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.11939
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.119744
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.119797
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "压散",
+    "freq_b": 1,
+    "cosine_similarity": -0.119907
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.120113
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.120422
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.121014
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": -0.121222
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.122137
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.122177
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.122238
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.122547
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.123539
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.12379
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.124054
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.125033
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.125245
+  },
+  {
+    "term_a": "混合",
+    "freq_a": 2,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.126093
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.126353
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.126476
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.126673
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.127253
+  },
+  {
+    "term_a": "结块",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.127319
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.127457
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.127855
+  },
+  {
+    "term_a": "米饭",
+    "freq_a": 30,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.128213
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": -0.129044
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.129266
+  },
+  {
+    "term_a": "香味",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.129492
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "搅匀",
+    "freq_b": 1,
+    "cosine_similarity": -0.130879
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.13154
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.132237
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.132334
+  },
+  {
+    "term_a": "加盐",
+    "freq_a": 2,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": -0.132671
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": -0.133496
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.133757
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.133812
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.134249
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.134847
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.135323
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": -0.135725
+  },
+  {
+    "term_a": "锅里",
+    "freq_a": 4,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.136063
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.136727
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "炒熟",
+    "freq_b": 2,
+    "cosine_similarity": -0.137429
+  },
+  {
+    "term_a": "油热",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.138244
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.138717
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.139115
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": -0.139608
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.139912
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.140026
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.140376
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "弄散",
+    "freq_b": 1,
+    "cosine_similarity": -0.140606
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.140977
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "开火",
+    "freq_b": 1,
+    "cosine_similarity": -0.141683
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.143323
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": -0.145267
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.14563
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.147327
+  },
+  {
+    "term_a": "翻炒",
+    "freq_a": 9,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.14754
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.147701
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.149208
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": -0.149474
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.149994
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "粘锅",
+    "freq_b": 1,
+    "cosine_similarity": -0.150024
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": -0.15043
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.151189
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "材料",
+    "freq_b": 1,
+    "cosine_similarity": -0.151263
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "打入",
+    "freq_b": 3,
+    "cosine_similarity": -0.15177
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.152228
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "普通",
+    "freq_b": 1,
+    "cosine_similarity": -0.152987
+  },
+  {
+    "term_a": "炒好",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.153769
+  },
+  {
+    "term_a": "简单",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.156221
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.156632
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.157222
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "打散",
+    "freq_b": 6,
+    "cosine_similarity": -0.1585
+  },
+  {
+    "term_a": "口味",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.158657
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.159087
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.159152
+  },
+  {
+    "term_a": "蛋炒饭",
+    "freq_a": 4,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.159371
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.16007
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.162812
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "加热",
+    "freq_b": 7,
+    "cosine_similarity": -0.163847
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.164575
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.165285
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "鸡蛋",
+    "freq_b": 35,
+    "cosine_similarity": -0.165928
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "炒好",
+    "freq_b": 1,
+    "cosine_similarity": -0.166397
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.168699
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.169268
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.169391
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.169968
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "备用",
+    "freq_b": 1,
+    "cosine_similarity": -0.170884
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "倒进",
+    "freq_b": 1,
+    "cosine_similarity": -0.174428
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "蛋炒饭",
+    "freq_b": 4,
+    "cosine_similarity": -0.174786
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.174965
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.179148
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.17974
+  },
+  {
+    "term_a": "葱花",
+    "freq_a": 4,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.179813
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.179882
+  },
+  {
+    "term_a": "均匀",
+    "freq_a": 3,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.180434
+  },
+  {
+    "term_a": "碗中",
+    "freq_a": 1,
+    "term_b": "葱花",
+    "freq_b": 4,
+    "cosine_similarity": -0.181792
+  },
+  {
+    "term_a": "放油",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.182587
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.183328
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "均匀",
+    "freq_b": 3,
+    "cosine_similarity": -0.183974
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.184864
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "差不多",
+    "freq_b": 3,
+    "cosine_similarity": -0.185729
+  },
+  {
+    "term_a": "搅匀",
+    "freq_a": 1,
+    "term_b": "步骤",
+    "freq_b": 1,
+    "cosine_similarity": -0.186342
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.189386
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.190881
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.191293
+  },
+  {
+    "term_a": "准备",
+    "freq_a": 7,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.192241
+  },
+  {
+    "term_a": "炒熟",
+    "freq_a": 2,
+    "term_b": "调味",
+    "freq_b": 4,
+    "cosine_similarity": -0.192901
+  },
+  {
+    "term_a": "步骤",
+    "freq_a": 1,
+    "term_b": "铲子",
+    "freq_b": 2,
+    "cosine_similarity": -0.193004
+  },
+  {
+    "term_a": "分开",
+    "freq_a": 1,
+    "term_b": "继续",
+    "freq_b": 1,
+    "cosine_similarity": -0.194698
+  },
+  {
+    "term_a": "时候",
+    "freq_a": 2,
+    "term_b": "油热",
+    "freq_b": 1,
+    "cosine_similarity": -0.194698
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "味道",
+    "freq_b": 1,
+    "cosine_similarity": -0.196354
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "时候",
+    "freq_b": 2,
+    "cosine_similarity": -0.197207
+  },
+  {
+    "term_a": "入锅",
+    "freq_a": 1,
+    "term_b": "关火",
+    "freq_b": 1,
+    "cosine_similarity": -0.197956
+  },
+  {
+    "term_a": "开火",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.199509
+  },
+  {
+    "term_a": "备用",
+    "freq_a": 1,
+    "term_b": "碗中",
+    "freq_b": 1,
+    "cosine_similarity": -0.199873
+  },
+  {
+    "term_a": "炒出来",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.199969
+  },
+  {
+    "term_a": "差不多",
+    "freq_a": 3,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.200867
+  },
+  {
+    "term_a": "加热",
+    "freq_a": 7,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.202858
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "简单",
+    "freq_b": 1,
+    "cosine_similarity": -0.205921
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.206577
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "翻炒",
+    "freq_b": 9,
+    "cosine_similarity": -0.212624
+  },
+  {
+    "term_a": "打散",
+    "freq_a": 6,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.214235
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "结块",
+    "freq_b": 1,
+    "cosine_similarity": -0.214531
+  },
+  {
+    "term_a": "味道",
+    "freq_a": 1,
+    "term_b": "锅里",
+    "freq_b": 4,
+    "cosine_similarity": -0.217538
+  },
+  {
+    "term_a": "一起",
+    "freq_a": 2,
+    "term_b": "关火",
+    "freq_b": 1,
+    "cosine_similarity": -0.218105
+  },
+  {
+    "term_a": "弄散",
+    "freq_a": 1,
+    "term_b": "饭粒",
+    "freq_b": 1,
+    "cosine_similarity": -0.219582
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.219721
+  },
+  {
+    "term_a": "材料",
+    "freq_a": 1,
+    "term_b": "炒出来",
+    "freq_b": 1,
+    "cosine_similarity": -0.222051
+  },
+  {
+    "term_a": "压开",
+    "freq_a": 1,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.222872
+  },
+  {
+    "term_a": "普通",
+    "freq_a": 1,
+    "term_b": "香味",
+    "freq_b": 1,
+    "cosine_similarity": -0.234644
+  },
+  {
+    "term_a": "关火",
+    "freq_a": 1,
+    "term_b": "加盐",
+    "freq_b": 2,
+    "cosine_similarity": -0.238242
+  },
+  {
+    "term_a": "倒进",
+    "freq_a": 1,
+    "term_b": "进去",
+    "freq_b": 13,
+    "cosine_similarity": -0.2481
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.25715
+  },
+  {
+    "term_a": "打入",
+    "freq_a": 3,
+    "term_b": "米饭",
+    "freq_b": 30,
+    "cosine_similarity": -0.261723
+  },
+  {
+    "term_a": "出锅",
+    "freq_a": 3,
+    "term_b": "沾上",
+    "freq_b": 1,
+    "cosine_similarity": -0.262882
+  },
+  {
+    "term_a": "压散",
+    "freq_a": 1,
+    "term_b": "混合",
+    "freq_b": 2,
+    "cosine_similarity": -0.27008
+  },
+  {
+    "term_a": "沾上",
+    "freq_a": 1,
+    "term_b": "颜色",
+    "freq_b": 1,
+    "cosine_similarity": -0.363476
+  }
+]
