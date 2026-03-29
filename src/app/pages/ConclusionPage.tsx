@@ -419,7 +419,7 @@ export function ConclusionPage() {
               让表达被记录，让变化被看见，让陪伴真正发生。"
             </div>
             <div style={{ marginTop: '20px', fontSize: '12px', color: '#5A5248', fontFamily: "'Space Mono', monospace", position: 'relative' }}>
-              — 聆夕 / 聆伴项目组
+              
             </div>
           </div>
         </div>
