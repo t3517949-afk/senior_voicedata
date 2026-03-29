@@ -25,6 +25,9 @@ const NAV_ITEMS = [
     path: '/evaluation',
     label: '评价结果',
     children: [
+      { label: '年龄分组', note: '按年龄层展示语音评价结果', to: '/evaluation#age-group' },
+      { label: '任务对比', note: '不同任务下的结果对照', to: '/evaluation#task-compare' },
+      { label: '能力量达', note: '多维能力指标综合展示', to: '/evaluation#ability-radar' },
       { label: '语义网络', note: '语料网络结构分析', to: '/evaluation#semantic-network' },
     ],
   },
