@@ -34,10 +34,10 @@ const GROUP_LABELS = {
 } as const;
 
 const CHART_TABS = [
-  { id: 'level', label: '年龄分组' },
-  { id: 'task', label: '任务对比' },
-  { id: 'radar', label: '能力雷达' },
-  { id: 'semantic', label: '语义网络' },
+  { id: 'age-group', label: '年龄分组' },
+  { id: 'task-compare', label: '任务对比' },
+  { id: 'ability-radar', label: '能力雷达' },
+  { id: 'semantic-network', label: '语义网络' },
 ];
 
 const CustomTooltip = ({ active, payload, label }: any) => {
@@ -598,31 +598,23 @@ function ImprovementChart() {
 }
 
 export function EvaluationPage() {
-  const [activeTab, setActiveTab] = useState('level');
+  const [activeTab, setActiveTab] = useState('age-group');
   const [activeDimensions, setActiveDimensions] = useState(['fluency', 'tonal', 'naturalness']);
   const location = useLocation();
 
   useEffect(() => {
-    const hash = decodeURIComponent(location.hash || '');
-    if (hash === '#score-overview') {
-      setActiveTab('level');
-    }
-    if (hash === '#semantic-network') {
-      setActiveTab('semantic');
+    const hash = decodeURIComponent(location.hash || '').replace('#', '');
+    const validIds = CHART_TABS.map((tab) => tab.id);
+    if (validIds.includes(hash)) {
+      setActiveTab(hash);
     }
   }, [location.hash]);
 
   useEffect(() => {
-    const hash = decodeURIComponent(location.hash || '');
-    const targetId =
-      hash === '#score-overview'
-        ? 'evaluation-score-overview'
-        : hash === '#semantic-network'
-          ? 'evaluation-semantic-network'
-          : '';
-    if (!targetId) return;
+    const hash = decodeURIComponent(location.hash || '').replace('#', '');
+    if (!hash) return;
     window.requestAnimationFrame(() => {
-      const target = document.getElementById(targetId);
+      const target = document.getElementById(hash);
       if (target) {
         target.scrollIntoView({ behavior: 'smooth', block: 'start' });
       }
@@ -673,7 +665,12 @@ export function EvaluationPage() {
               return (
                 <button
                   key={tab.id}
-                  onClick={() => setActiveTab(tab.id)}
+                  onClick={() => {
+                    setActiveTab(tab.id);
+                    window.history.replaceState(null, '', `#${tab.id}`);
+                    const target = document.getElementById(tab.id);
+                    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                  }}
                   style={{
                     padding: '14px 20px',
                     backgroundColor: 'transparent',
@@ -697,15 +694,23 @@ export function EvaluationPage() {
 
       {/* ─── Chart Content ─── */}
       <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '48px 32px 80px' }}>
-        {activeTab === 'level' && (
-          <div id="evaluation-score-overview" style={{ scrollMarginTop: '92px' }}>
+        {activeTab === 'age-group' && (
+          <div id="age-group" style={{ scrollMarginTop: '92px' }}>
             <LevelChart />
           </div>
         )}
-        {activeTab === 'task' && <TaskChart />}
-        {activeTab === 'radar' && <RadarChartSection />}
-        {activeTab === 'semantic' && (
-          <div id="evaluation-semantic-network" style={{ scrollMarginTop: '92px' }}>
+        {activeTab === 'task-compare' && (
+          <div id="task-compare" style={{ scrollMarginTop: '92px' }}>
+            <TaskChart />
+          </div>
+        )}
+        {activeTab === 'ability-radar' && (
+          <div id="ability-radar" style={{ scrollMarginTop: '92px' }}>
+            <RadarChartSection />
+          </div>
+        )}
+        {activeTab === 'semantic-network' && (
+          <div id="semantic-network" style={{ scrollMarginTop: '92px' }}>
             <SemanticNetworkSection />
           </div>
         )}
@@ -724,7 +729,12 @@ export function EvaluationPage() {
             {CHART_TABS.map((tab, i) => (
               <button
                 key={tab.id}
-                onClick={() => setActiveTab(tab.id)}
+                onClick={() => {
+                  setActiveTab(tab.id);
+                  window.history.replaceState(null, '', `#${tab.id}`);
+                  const target = document.getElementById(tab.id);
+                  if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                }}
                 style={{
                   width: '8px',
                   height: '8px',
@@ -745,7 +755,13 @@ export function EvaluationPage() {
                 <>
                   {currentIdx > 0 && (
                     <button
-                      onClick={() => setActiveTab(CHART_TABS[currentIdx - 1].id)}
+                      onClick={() => {
+                        const id = CHART_TABS[currentIdx - 1].id;
+                        setActiveTab(id);
+                        window.history.replaceState(null, '', `#${id}`);
+                        const target = document.getElementById(id);
+                        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                      }}
                       style={{
                         padding: '8px 16px',
                         border: '1px solid #DED8CC',
@@ -761,7 +777,13 @@ export function EvaluationPage() {
                   )}
                   {currentIdx < CHART_TABS.length - 1 && (
                     <button
-                      onClick={() => setActiveTab(CHART_TABS[currentIdx + 1].id)}
+                      onClick={() => {
+                        const id = CHART_TABS[currentIdx + 1].id;
+                        setActiveTab(id);
+                        window.history.replaceState(null, '', `#${id}`);
+                        const target = document.getElementById(id);
+                        if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                      }}
                       style={{
                         padding: '8px 16px',
                         border: '1px solid #2C5F8A',
