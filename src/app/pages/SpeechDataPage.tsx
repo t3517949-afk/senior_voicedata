@@ -8,7 +8,7 @@ import {
 } from '../data/mockData';
 
 function buildAudioUrl(fileCode: string) {
-  return `/audio/${encodeURIComponent(fileCode)}`;
+  return `${import.meta.env.BASE_URL}audio/${encodeURIComponent(fileCode)}`;
 }
 
 type SyllableGroupItem = {
