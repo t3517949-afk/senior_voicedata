@@ -280,11 +280,10 @@ export function HomePage() {
               animation: 'fadeUp 0.8s ease-out 0.1s forwards',
             }}
           >
-            老年人语音
+            老年人语料数据集
             <br />
-            <span style={{ color: '#C07830' }}>认知健康与陪伴</span>
-            <br />
-            支持平台
+            <span style={{ color: '#C07830' }}>和分析可视化平台</span>
+            
           </h1>
 
           {/* Waveform decoration */}
@@ -377,7 +376,7 @@ export function HomePage() {
               onMouseEnter={(e) => { (e.target as HTMLElement).style.borderColor = '#C07830'; (e.target as HTMLElement).style.color = '#C07830'; (e.target as HTMLElement).style.transform = 'translateY(-1px)'; }}
               onMouseLeave={(e) => { (e.target as HTMLElement).style.borderColor = 'rgba(200,194,184,0.3)'; (e.target as HTMLElement).style.color = '#C8C2B8'; (e.target as HTMLElement).style.transform = 'none'; }}
             >
-              查看项目价值
+              查看可视化数据
             </button>
           </div>
         </div>
